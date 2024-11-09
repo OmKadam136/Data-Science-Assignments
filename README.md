@@ -18,21 +18,21 @@
 
 ### [09 - Association Rule](https://github.com/OmKadam136/Association-Rules)
 
-### [10 - Recommendation System](https://github.com/OmKadam136/Assignment-Recommendation-System)
+### [10 - Recommendation System](https://github.com/OmKadam136/Recommendation-System)
 
-### [11 - Text Mining](https://github.com/OmKadam136/Assignment-Text-Mining)
+### [11 - Text Mining](https://github.com/OmKadam136/Text-Mining)
 
-### [12 - Naive Bayes](https://github.com/OmKadam136/Assignment-Naive-Bayes)
+### [12 - Naive Bayes](https://github.com/OmKadam136/Naive-Bayes)
 
-### [13 - K-Nearest Neighbors](https://github.com/OmKadam136/Assignment-KNN)
+### [13 - K-Nearest Neighbors](https://github.com/OmKadam136/KNN)
 
-### [14 - Decision Trees](https://github.com/OmKadam136/Assignment-Decision-Trees)
+### [14 - Decision Trees](https://github.com/OmKadam136/Decision-Trees)
 
-### [15 - Random Forests](https://github.com/OmKadam136/Assignment-Random-Forest)
+### [15 - Random Forests](https://github.com/OmKadam136/Random-Forest)
 
-### [16 - Neural Networks](https://github.com/OmKadam136/Assignment-Neural-Networks)
+### [16 - Neural Networks](https://github.com/OmKadam136/Neural-Networks)
 
-### [17 - Support Vector Machines](https://github.com/OmKadam136/Assignment-Support-Vector-Machines)
+### [17 - Support Vector Machines](https://github.com/OmKadam136/Support-Vector-Machines)
 
-### [18 - Forecasting](https://github.com/OmKadam136/Assignment-Forecasting)
+### [18 - Forecasting](https://github.com/OmKadam136/Forecasting)
 
