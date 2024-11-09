@@ -1,22 +1,22 @@
 # Data-Science-Assignments
 
-### [01 - Basic Statistics Level 1](https://github.com/OmKadam136/Assignment-Basic-Statistics-Level-1)
+### [01 - Basic Statistics Level 1](https://github.com/OmKadam136/Basic-Statistics-Level-1)
 
-### [02 - Basic Statistics Level 2](https://github.com/OmKadam136/Assignment-Basic-Statistics-Level-2)
+### [02 - Basic Statistics Level 2](https://github.com/OmKadam136/Basic-Statistics-Level-2)
 
-### [03 - Hypothesis Testing](https://github.com/OmKadam136/Assignment-Hypothesis-Testing)
+### [03 - Hypothesis Testing](https://github.com/OmKadam136/Hypothesis-Testing)
 
 ### [04 - Simple Linear Regression](https://github.com/OmKadam136/Simple-Linear-Regression)
 
-### [05 - Multi Linear Regression](https://github.com/OmKadam136/Assignment-Multi-Linear-Regression)
+### [05 - Multi Linear Regression](https://github.com/OmKadam136/Multi-Linear-Regression)
 
-### [06 - Logistic Regression](https://github.com/OmKadam136/Assignment-Logistic-Regression)
+### [06 - Logistic Regression](https://github.com/OmKadam136/Logistic-Regression)
 
-### [07 - Clustering](https://github.com/OmKadam136/Assignment-Clustering)
+### [07 - Clustering](https://github.com/OmKadam136/Clustering)
 
-### [08 - Principal Component Analysis](https://github.com/OmKadam136/Assignment-PCA)
+### [08 - Principal Component Analysis](https://github.com/OmKadam136/PCA)
 
-### [09 - Association Rule](https://github.com/OmKadam136/Assignment-Association-Rules)
+### [09 - Association Rule](https://github.com/OmKadam136/Association-Rules)
 
 ### [10 - Recommendation System](https://github.com/OmKadam136/Assignment-Recommendation-System)
 
